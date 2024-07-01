@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/charttable",
-    "version":"1.3.0",
+    "name": "cliqued-media/charttable",
+    "version":"1.0.0",
     "description": "Chart and table",
     "keywords": ["PHP","Reporting Tools","Data Report","chart","table"],
     "homepage": "https://www.koolreport.com",
